@@ -69,7 +69,7 @@ WINDSURF_FILE="$REPO_ROOT/.windsurf/rules/specify-rules.md"
 KILOCODE_FILE="$REPO_ROOT/.kilocode/rules/specify-rules.md"
 AUGGIE_FILE="$REPO_ROOT/.augment/rules/specify-rules.md"
 ROO_FILE="$REPO_ROOT/.roo/rules/specify-rules.md"
-Q_FILE="$REPO_ROOT/.amazonq/rules/specify-rules.md"
+Q_FILE="$REPO_ROOT/AmazonQ.md"
 
 # Template file
 TEMPLATE_FILE="$REPO_ROOT/.specify/templates/agent-file-template.md"
